@@ -4,6 +4,7 @@ body {
     text-align: center;
     font: 1em sans-serif;
     background-color: rgb(3, 18, 37);
+
 }
 
 .card {
@@ -16,7 +17,7 @@ body {
     color: #160652;
     background-color: rgb(196, 226, 243);
     background: linear-gradient( rgb(130, 206, 250), rgb(228, 240, 252));
-    
+
 }
 
 .avatar {
@@ -27,7 +28,7 @@ body {
     width: 300px;
     border: 1px solid rgb(250, 161, 27);
     border-radius: 70px;
-}    
+}
 
 
 .avatar:hover {
@@ -35,7 +36,7 @@ body {
     background-size: cover;
     width: 300px;
     transition: 800ms;
-}  
+}
 
 .details {
     display: block;
@@ -44,7 +45,6 @@ body {
 .text{
     text-align: start;
     margin: 30px 0;
-   
 }
 
 .border{
@@ -52,10 +52,10 @@ body {
 }
 
 #location:hover{
-    text-shadow: 7px 7px 15px #160652; 
+    text-shadow: 7px 7px 15px #160652;
     font-size: 20px;
     display: flex;
-   
+
 }
 
 #role:hover{
@@ -63,7 +63,6 @@ body {
     font-style: italic;
     font-size: 25px;
     color: #fc6805;
-    
 }
 
 #role{
